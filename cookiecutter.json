@@ -1,0 +1,5 @@
+{
+    "project_slug": "airflow_project",
+    "project_name": "Sample Airflow Project",
+    "description": "A simple Apache Airflow project to get started."
+}
